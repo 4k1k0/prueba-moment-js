@@ -1,0 +1,19 @@
+{
+  "name": "prueba-tiempo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "nodemon index.js",
+    "lint": "standard"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
